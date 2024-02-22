@@ -1,13 +1,10 @@
 ### Java NIO packages
 
-<p>
-    So, there are `three` key concepts used in Java NIO package.
+So, there are **three** key concepts used in Java NIO package.
 
     1. channel
     2. Buffer
     3. Selector
-
-</p>
 
 - The `channel` represents a stream of data between applications.
 
