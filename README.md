@@ -1,4 +1,6 @@
-### Java NIO packages
+# Network Programming
+
+<!-- ## Java NIO packages
 
 So, there are **three** key concepts used in Java NIO package.
 
@@ -20,3 +22,9 @@ A channel and buffer are typically associated with each other.Data may be transf
 The buffer, as its name implies, is temporary repository for information.
 
 </p>
+
+## URL Connection class
+
+- URl connection class is a simple way to accessing a server.
+- This class represents a connection between an application and URL instance.
+- A URL instance represent a resource on the internet. -->
